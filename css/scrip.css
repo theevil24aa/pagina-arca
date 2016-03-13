@@ -1,0 +1,18 @@
+.alineacionarriba{
+    align-content: center;
+    margin-top: auto;
+}
+li{
+    color: darkred;
+}
+body{
+    background-color: black;
+    
+}
+body header div{
+    background-color: black;
+    background-image: url(ico.png);
+}
+ol div{
+    text-align: top left;
+}
