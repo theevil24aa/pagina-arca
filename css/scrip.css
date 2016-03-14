@@ -6,13 +6,12 @@ li{
     color: darkred;
 }
 body{
-    background-color: black;
+background-color: black;
     
 }
-body header div{
-    background-color: black;
-    background-image: url(ico.png);
-}
+
 ol div{
     text-align: top left;
+}nav ol .navegacion div a {
+	font-family: Times New Roman, Times, serif;
 }
